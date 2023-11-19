@@ -13,7 +13,7 @@ In summary, this ecosystem involves a linear regression model utilizing ETH pric
 ## What should I be looking for?
 
 - ETHedger
-    -ETHedger
+    - ETHedger
         - src
             - **getPrice.sol** → ETH tick price smart contract with ChainLink
             - **price_data.csv** → locally stored data of observered ticks
