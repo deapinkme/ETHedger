@@ -28,4 +28,4 @@ In summary, this ecosystem involves a linear regression model utilizing ETH pric
 
 ## How it works
 
-[PRESENTATION](https://www.intel.com)
+[PRESENTATION]([https://youtu.be/jhZubE4Kq_4])
